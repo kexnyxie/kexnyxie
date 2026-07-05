@@ -50,19 +50,22 @@
   </ul>
 <br><br>
 
-  <h3>📬 Let's connect</h3>
-
+ <h3>📬 Let's connect</h3>
   <p>
     <a href="mailto:nyxd052007@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;&nbsp;
-    <a href="[https://www.linkedin.com/in/anvika-d-53a407324/](https://www.linkedin.com/in/anvika-dhiman-53a407324/)">
+    <a href="https://www.linkedin.com/in/anvika-dhiman-53a407324/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://discord.com/users/kenny.kx">
       <img src="https://img.shields.io/badge/Discord-@kenny.kx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/nyxtrogen_/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
 
