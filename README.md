@@ -15,7 +15,7 @@ Everything you need to know about me:
 <br>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=kexnyxie&color=ff69b4&label=hamster+visits&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=kexnyxie&label=Visitors&color=bb86fc&style=flat-square)
 
 <br>
 
