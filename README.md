@@ -6,8 +6,8 @@ Everything you need to know about me:
   <h1> WELCOME 🐹🔥</h1>
 
   <h3>Nice to meet you!</h3>
-  <h4> You can address me as kenny, ken, nyx, or whatever you like. </h4>
-  <h4> 18, he/him 🇨🇦 </h4>
+  <h4> You can address me as nyx, or whatever you like. </h4>
+  <h4> I am currently 18 years old and an aspiring data scientist with interest in game dev. Currently focused on C++, Python and NET Js.</h4>
   <br>
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
