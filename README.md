@@ -13,10 +13,10 @@ Building software that blends automation, data, and creativity. </h3>
 - University coursework
 - 📚 Study Bot: a Discord productivity bot
   
-*Learning and Exploring:*
+*Learning and Exploring:* <br>
 Python • JavaScript • C++ • C# • Unity 
 
-*Interests:*
+*Interests:* <br>
 Full-Stack • Automation • Data • Creative coding
 
   <br><br>
