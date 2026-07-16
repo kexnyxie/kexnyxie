@@ -1,21 +1,28 @@
-Everything you need to know about me:
 
-
-<div align="center">
-
-  <h1> WELCOME 🐹🔥</h1>
-
-  <h3>Nice to meet you!</h3>
-  <h4> I am kexnyxie, and currently a 19 year old aspiring data scientist with special interest in game dev. Currently focused on C++, Python and Js.</h4>
-  <br>
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-<br>
-<br>
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=kexnyxie&label=Visitors&color=bb86fc&style=flat-square)
+<br><br>
+*Welcome, it's really nice to have you here! Here is everything you need to know about me:<3*
 
+<h3> Data Science student @ University of Regina 🇨🇦
+
+Building software that blends automation, data, and creativity. </h3>
+
+*Currently working on:*
+- University coursework
+- 📚 Study Bot: a Discord productivity bot
+  
+*Learning and Exploring:*
+Python • JavaScript • C++ • C# • Unity 
+
+*Interests:*
+Full-Stack • Automation • Data • Creative coding
+
+  <br><br>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<br>
 <br>
 
   <p>
@@ -35,7 +42,7 @@ Everything you need to know about me:
 
 
   <br><br>
-  
+  </div>
 <h3>💻 Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -62,19 +69,6 @@ Everything you need to know about me:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<br>
-  <br><br>
-  
-  <h3>Currently:</h3>
-
-  <ul style="list-style: none; padding-left: 0;">
-    <li>Obsessed with making my first real video game</li>
-    <li>Building Discord bots & small games with python and c++</li>
-    <li>Grinding through leetcode problem sets</li>
-    <li>Late-night locking  powered by monster & insomnia</li>
-  </ul>
-<br><br>
-
  <h3>📬 if you wanna connect with me: </h3>
   <p>
     <a href="mailto:nyxd052007@gmail.com">
@@ -85,8 +79,8 @@ Everything you need to know about me:
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://discord.com/users/kenny.kx">
-      <img src="https://img.shields.io/badge/Discord-@kenny.kx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <a href="https://discord.com/users/ke.nx_">
+      <img src="https://img.shields.io/badge/Discord-@ke.nx_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/nyxtrogen_/">
@@ -96,6 +90,4 @@ Everything you need to know about me:
 
   <br>
 
-  <sub>Made by a hamster with monster addiction 🐹🌌</sub>
-
-</div>
+  <sub>Made by an alien with a monster addiction 🌌</sub>
