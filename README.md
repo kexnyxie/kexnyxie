@@ -12,15 +12,14 @@
 ---
 
 ## 📈 Activity & Insights
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
   <br><br>
-  <!-- Table aligns your stats side-by-side cleanly -->
+
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=kexnyxie&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight" alt="GitHub Streak" height="180px"/>
       </td>
       <td align="center" valign="middle">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" alt="Activity Graph" height="180px"/>
@@ -28,7 +27,6 @@
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
