@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3A0dTFnd3V6ZXp5cXA0M3Z5Y293bHBlY2NxcmN5d3V6ZXp5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R9/Zvik79Y7A1961YxniY/giphy.gif" width="600px" alt="Developer Setup"/>
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+space!;Exploring+Automation+%26+Data;Building+Creative+Software;Developing+Gyeol+Study+Bot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=550&lines=Welcome+to+my+humble+abode!;Exploring+Automation+%26+Data;Building+Creative+Software;Developing+Gyeol+Study+Bot" alt="Typing SVG" />
 </div>
 
 ### 📊 Data Science Student @ University of Regina 🇨🇦
