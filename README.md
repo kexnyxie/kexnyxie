@@ -1,4 +1,5 @@
-<div align="center">
+
+<img src="assets/starfield-header.svg" width="100%"/><div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=kexnyxie&label=Profile+Views&color=9d7cd8&style=flat-square" alt="Visitors"/>
 
