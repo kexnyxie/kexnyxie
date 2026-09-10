@@ -44,16 +44,33 @@ Currently Learning
 ---
 
 ## Featured Project
+### _Protect the Base_
+A 2D Python game evolving into a data-driven software project.
+Protect the Base is a 2D game built with Python and Pygame, where the player must defend a base while managing movement, gameplay mechanics, and increasingly challenging situations.
+Rather than treating the project as only a game, I'm using it to explore how software development and data science can work together.
 
-# 🚀 Gyeol Study Bot
+### Current Development
+🎮 2D gameplay built with Pygame <br>
+🕹️ Player movement and game mechanics <br>
+📈 Gameplay telemetry and event tracking <br>
+📊 Data collection for future analysis <br>
+🧪 Experimenting with gameplay and player behavior <br>
+🌐 Future JavaScript-based interactive interface <br>
 
-An RPG-inspired productivity assistant for Discord that transforms studying into a rewarding experience through XP, Pomodoro sessions, streaks, quests, reminders, and analytics.
+### Data Science Direction
+Telemetry will be used to collect structured gameplay data such as player actions, session information, performance, and game events.
+_The goal is to eventually analyze this data to answer questions such as_:
+- Which parts of the game are most difficult?
+- How does player performance change over time?
+- Which gameplay mechanics are most engaging?
+- Where do players tend to struggle or stop playing?
+- How can data inform future game design decisions?
 
-**Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+### Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-333333?style=flat-square&logo=python&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 > Repository coming soon.
 
