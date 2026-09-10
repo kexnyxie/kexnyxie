@@ -40,6 +40,16 @@ Currently Learning
 └── Data Structures & Algorithms
 └── Statistical Computing
 ```
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d7cd8&ring=9d7cd8&fire=bb86fc" height="175"/>
+
+<br>
+</div>
 
 ---
 
@@ -103,18 +113,7 @@ Questions I want to explore:
 
 </details>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d7cd8&ring=9d7cd8&fire=bb86fc" height="175"/>
-
-<br>
-</div>
-
----
+----
 
 ## Other Projects
 
@@ -151,6 +150,21 @@ Questions I want to explore:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+<details>
+<summary> 📚 Currently Learning </summary>
+
+<br>
+
+```text
+C++                    ██████░░░░
+Data Structures        ████░░░░░░
+Algorithms             ███░░░░░░░
+Statistical Computing  ███░░░░░░░
+Machine Learning       ██░░░░░░░░
+```
+</details>
+
+----
 ## Connect
 
 <div align="center">
@@ -159,8 +173,12 @@ Questions I want to explore:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/ke.nx_">
-<img src="https://img.shields.io/badge/Discord-@ke.nx_-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/ad.i5">
+<img src="https://img.shields.io/badge/Discord-@ad.i5-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anvikadhiman/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br>
 
