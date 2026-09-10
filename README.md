@@ -82,7 +82,11 @@ _The goal is to eventually analyze this data to answer questions such as_:
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d7cd8&ring=9d7cd8&fire=bb86fc" height="175"/>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" width="100%" alt="GitHub Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
