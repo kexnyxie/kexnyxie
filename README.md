@@ -50,12 +50,15 @@ Protect the Base is a 2D game built with Python and Pygame, where the player mus
 Rather than treating the project as only a game, I'm using it to explore how software development and data science can work together.
 
 ### Current Development
-🎮 2D gameplay built with Pygame <br>
-🕹️ Player movement and game mechanics <br>
-📈 Gameplay telemetry and event tracking <br>
-📊 Data collection for future analysis <br>
-🧪 Experimenting with gameplay and player behavior <br>
-🌐 Future JavaScript-based interactive interface <br>
+
+| Area | Status |
+| :--- | :--- |
+| 🎮 Core gameplay | 🟢 Active |
+| 🕹️ Player mechanics | 🟢 Active |
+| 📈 Gameplay telemetry | 🟡 Planned |
+| 📊 Data collection | 🟡 Planned |
+| 🧪 Player behavior analysis | ⚪ Future |
+| 🌐 Web interface | ⚪ Future |
 
 ### Data Science Direction
 Telemetry will be used to collect structured gameplay data such as player actions, session information, performance, and game events.
