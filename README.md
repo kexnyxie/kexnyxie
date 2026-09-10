@@ -70,15 +70,6 @@ Rather than treating the project as only a game, I'm using it to explore how sof
 | 🧪 Player behavior analysis | ⚪ Future |
 | 🌐 Web interface | ⚪ Future |
 
-### Data Science Direction
-Telemetry will be used to collect structured gameplay data such as player actions, session information, performance, and game events.
-_The goal is to eventually analyze this data to answer questions such as_:
-- Which parts of the game are most difficult?
-- How does player performance change over time?
-- Which gameplay mechanics are most engaging?
-- Where do players tend to struggle or stop playing?
-- How can data inform future game design decisions?
-
 ### Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-333333?style=flat-square&logo=python&logoColor=white)
