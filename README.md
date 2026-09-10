@@ -75,6 +75,33 @@ _The goal is to eventually analyze this data to answer questions such as_:
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+<details>
+<summary>📊 Data Science Direction</summary>
+
+<br>
+
+The goal of the project is to eventually collect structured gameplay
+data and use it to explore how players interact with the game.
+
+Potential data points include:
+
+- Player actions
+- Session duration
+- Performance
+- Game events
+- Difficulty progression
+- Player deaths
+- Gameplay patterns
+
+Questions I want to explore:
+
+- Which parts of the game are most difficult?
+- How does player performance change over time?
+- Which mechanics are most engaging?
+- Where do players tend to struggle?
+- Can gameplay data inform future design decisions?
+
+</details>
 
 ---
 
@@ -85,12 +112,6 @@ _The goal is to eventually analyze this data to answer questions such as_:
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d7cd8&ring=9d7cd8&fire=bb86fc" height="175"/>
 
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kexnyxie/kexnyxie/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 
 ---
@@ -99,12 +120,11 @@ _The goal is to eventually analyze this data to answer questions such as_:
 
 | Project | What it does | Technologies |
 | :--- | :--- | :--- |
-| **Gyeol Study Bot** | RPG-inspired productivity and study assistant for Discord | `Node.js` · `Discord.js` |
-| **Venus** | Community moderation and automation bot | `Python` · `Discord.py` |
-| **Desktop Calendar** | Lightweight desktop planning application | `Electron` · `Node.js` |
-| **Weather App** | Weather dashboard using REST APIs | `JavaScript` |
-| **Number Guessing Game** | Python project exploring programming fundamentals and game logic | `Python` |
-
+| **[Gyeol Study Bot](https://github.com/kexnyxie/study-bot)** | RPG-inspired productivity and study assistant for Discord | `Node.js` · `Discord.js` |
+| **[Venus](https://github.com/kexnyxie/venus-discord-bot)** | Community moderation and automation bot | `Python` · `Discord.py` |
+| **[Desktop Calendar](https://github.com/kexnyxie/cute-electron-application)** | Lightweight desktop planning application | `Electron` · `Node.js` |
+| **[Weather App](https://github.com/kexnyxie/first-weather-app)** | Weather dashboard using REST APIs | `JavaScript` |
+| **[Number Guessing Game](https://github.com/kexnyxie/NumberGuessingGame)** | Programming fundamentals and game logic | `Python` |
 ---
 
 ## Tech Stack
@@ -131,7 +151,6 @@ _The goal is to eventually analyze this data to answer questions such as_:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
 ## Connect
 
 <div align="center">
