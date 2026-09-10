@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9D7CD8&center=true&vCenter=true&width=560&lines=Data+Science+Student;Building+Productivity+Software;Discord+Bot+Developer;Always+Learning+Something+New" />
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=kexnyxie&style=flat-square&color=9d7cd8&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=kexnyxie&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=9d7cd8&style=flat-square"/>
 
 <br>
 
