@@ -72,7 +72,6 @@ _The goal is to eventually analyze this data to answer questions such as_:
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Repository coming soon.
 
 ---
 
@@ -83,22 +82,21 @@ _The goal is to eventually analyze this data to answer questions such as_:
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=kexnyxie&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d7cd8&ring=9d7cd8&fire=bb86fc" height="175"/>
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## Projects
+## Other Projects
 
-| Project | Description | Stack |
-|----------|-------------|-------|
-| **Gyeol Study Bot** | RPG-inspired productivity assistant for Discord. | Node.js · Discord.js |
-| **Venus** | Community moderation and automation bot. | Python · Discord.py |
-| **Desktop Calendar** | Lightweight desktop planner with a custom-designed interface. | Electron · Node.js |
-| **Weather App** | Live weather dashboard powered by REST APIs. | JavaScript |
-| **Number Guessing Game** | One of my earliest Python projects exploring game logic. | Python |
+| Project | What it does | Technologies |
+| :--- | :--- | :--- |
+| **Gyeol Study Bot** | RPG-inspired productivity and study assistant for Discord | `Node.js` · `Discord.js` |
+| **Venus** | Community moderation and automation bot | `Python` · `Discord.py` |
+| **Desktop Calendar** | Lightweight desktop planning application | `Electron` · `Node.js` |
+| **Weather App** | Weather dashboard using REST APIs | `JavaScript` |
+| **Number Guessing Game** | Python project exploring programming fundamentals and game logic | `Python` |
 
 ---
 
