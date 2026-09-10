@@ -15,7 +15,7 @@
 
 Building productivity software, Discord applications, and data-driven tools with a focus on creating software that's both practical and enjoyable to use.
 
-Currently studying **DS** 
+Currently studying **Data Science** @ University Of Regina 
 
 </div>
 
